@@ -1,8 +1,6 @@
 {
   "functions": {
-    "api": {
-      "handler": "app.app"
-    }
+    "api": "/app.py"
   },
   "routes": [
     { "src": "/(.*)", "dest": "/app.py" }
