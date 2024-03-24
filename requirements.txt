@@ -1,5 +1,6 @@
-Flask==2.0.2
-numpy==1.21.3
-scipy==1.7.1
-Werkzeug==2.0.2
-flask_cors==3.0.10
+Flask==3.0.1
+numpy==1.26.4
+scipy==1.12.0
+Werkzeug==3.0.1
+flask_cors==4.0.0
+gunicorn==21.2.0
