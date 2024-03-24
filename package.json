@@ -1,0 +1,15 @@
+{
+  "name": "flask-backend",
+  "version": "1.0.0",
+  "description": "Backend server built with Flask",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py"
+  },
+  "dependencies": {
+    "Flask": "2.0.2",
+    "Flask-Cors": "3.0.10",
+    "numpy": "1.21.3",
+    "scipy": "1.7.1"
+  }
+}
