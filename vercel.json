@@ -1,6 +1,8 @@
 {
   "functions": {
-    "api": "/app.py"
+    "api": {
+      "src": "/app.py"
+    }
   },
   "routes": [
     { "src": "/(.*)", "dest": "/app.py" }
