@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api": {
+      "handler": "app.app"
+    }
+  },
+  "routes": [
+    { "src": "/(.*)", "dest": "/app.py" }
+  ]
+}
